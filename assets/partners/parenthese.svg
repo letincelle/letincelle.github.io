@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" role="img" aria-labelledby="title desc">
+  <title id="title">Parenthèse</title>
+  <desc id="desc">Identité typographique de Parenthèse, centre de soins et d'accompagnement.</desc>
+  <defs>
+    <linearGradient id="parenthese-gradient" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#174b93"/>
+      <stop offset="1" stop-color="#2b8b9a"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="300" rx="38" fill="#f2f6fb"/>
+  <path d="M155 64c-38 0-68 35-68 86s30 86 68 86" fill="none" stroke="url(#parenthese-gradient)" stroke-linecap="round" stroke-width="20"/>
+  <path d="M215 64c38 0 68 35 68 86s-30 86-68 86" fill="none" stroke="#efaa55" stroke-linecap="round" stroke-width="20"/>
+  <circle cx="185" cy="150" r="15" fill="#efaa55"/>
+  <text x="330" y="145" fill="#173f78" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-2">Parenthèse</text>
+  <text x="333" y="188" fill="#64748b" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" letter-spacing="1.2">CSAPA · ACCOMPAGNEMENT</text>
+</svg>
